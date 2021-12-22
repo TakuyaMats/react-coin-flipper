@@ -10,6 +10,7 @@ class CoinHeads extends Component {
                     <Image 
                         src="https://upload.wikimedia.org/wikipedia/commons/7/70/2021-P_US_Quarter_Obverse.jpg"
                         className="Coin-heads"
+                        alt=""
                         rounded />
                 </Col>
             </Row>

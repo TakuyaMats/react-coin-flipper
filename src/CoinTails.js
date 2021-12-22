@@ -10,6 +10,7 @@ class CoinTails extends Component {
                     <Image 
                         src="https://bjc.edc.org/June2017/bjc-r/img/5-algorithms/img_flipping-a-coin/Tails.png"
                         className="Coin-tails"
+                        alt=""
                         rounded />
                 </Col>
             </Row>
